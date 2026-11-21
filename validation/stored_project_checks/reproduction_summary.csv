@@ -1,0 +1,17 @@
+check,n,max_abs_rel,case_of_max,published,present,n_below_5e4
+exact2d_vs_kapuria_K5,12,3.9402655738873804e-05,L/h=10 m=1,10.152,10.1516,12
+exact2d_vs_kapuria_K4,10,0.0001467860526562781,L/h=5 m=2,14.99,14.9878,10
+exact2d_planestrain_vs_kapuria_K5,12,0.005320060346953315,L/h=5 m=4,47.602,47.8566,0
+exact3d_vs_desai2003,7,0.0006812630506183304,[0/90/90/0] a/h=25,18.067,18.0547,6
+exact3d_vs_rao2004_iurlaro,6,0.0002305547986837242,"a/2h=10 tc/tf=4 (1,1)",1.908,1.90844,6
+exact3d_vs_rao2004_grover,6,0.00022989491075020574,"a/2h=10 tc/tf=50 (1,1)",2.5658,2.56639,6
+exact3d_vs_raodesai_LW,12,0.0005715855575042506,"a/2h=10 tc/tf=10 (3,3)",7.676,7.68039,11
+exact3d_vs_noor_sym,5,0.008093521920408131,[0/90/90/0] a/h=5 E1/E2=10,8.21,8.27699,0
+exact3d_vs_noor_antisym,20,0.007803017166637671,(0/90)_5 a/h=5 E1/E2=40,11.624,11.534,0
+navier_hsdt_vs_grover_attrib,5,4.573379880157269e-05,[0/90/90/0] a/h=5 E1/E2=3,6.56,6.5597,5
+navier_hsdt_vs_putcha,20,0.06025388878955851,(0/90)_5 a/h=5 E1/E2=20,10.674,10.0674,19
+navier_hsdt_vs_reddyphan_T3,14,0.01869791328692072,[0/90/90/0] a/h=5,10.989,10.7873,0
+navier_hsdt_planestrain_vs_wuzhen_K5,12,9.28453382353922e-06,L/h=5 m=1,10.7705,10.7706,12
+navier_hsdt_planestrain_vs_wuzhen_K4,10,2.8768906565890262e-05,L/h=5 m=3,27.807,27.8078,10
+navier_hsdt_planestrain_vs_wuzhen_SW,14,0.009048140367488466,L/h=10 m=3,17.0514,16.8985,1
+navier_hsdt_vs_kant5var,6,0.020635677250169904,"a/2h=10 tc/tf=10 (1,1)",7.0473,7.19579,0

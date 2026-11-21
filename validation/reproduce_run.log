@@ -1,0 +1,269 @@
+[  1/266] B-PAR [0/90/0] L/h=5 m=1                     omega L^2/h sqrt(rho_ref  recomputed 9.1953156  stored 9.195315556  rel 1.0e-11  OK
+[  2/266] B-PAR [0/90/0] L/h=5 m=2                     omega L^2/h sqrt(rho_ref  recomputed 21.035019  stored 21.03501943  rel -1.5e-10  OK
+[  3/266] B-PAR [0/90/0] L/h=5 m=3                     omega L^2/h sqrt(rho_ref  recomputed 32.867779  stored 32.86777911  rel 1.1e-10  OK
+[  4/266] B-PAR [0/90/0] L/h=10 m=1                    omega L^2/h sqrt(rho_ref  recomputed 13.603345  stored 13.60334516  rel -1.8e-10  OK
+[  5/266] B-PAR [0/90/0] L/h=10 m=2                    omega L^2/h sqrt(rho_ref  recomputed 36.781262  stored 36.78126222  rel 1.2e-10  OK
+[  6/266] B-PAR [0/90/0] L/h=10 m=3                    omega L^2/h sqrt(rho_ref  recomputed 60.475201  stored 60.47520116  rel 5.0e-11  OK
+[  7/266] B-PAR [0/90/0] L/h=20 m=1                    omega L^2/h sqrt(rho_ref  recomputed 16.324841  stored 16.32484146  rel 3.9e-11  OK
+[  8/266] B-PAR [0/90/0] L/h=20 m=2                    omega L^2/h sqrt(rho_ref  recomputed 54.413381  stored 54.41338063  rel 4.5e-12  OK
+[  9/266] B-PAR [0/90/0] L/h=20 m=3                    omega L^2/h sqrt(rho_ref  recomputed 99.940386  stored 99.94038636  rel 1.4e-12  OK
+[ 10/266] B-PAR [0/90/0] L/h=50 m=1                    omega L^2/h sqrt(rho_ref  recomputed 17.448512  stored 17.448512  rel 2.7e-10  OK
+[ 11/266] B-PAR [0/90/0] L/h=50 m=2                    omega L^2/h sqrt(rho_ref  recomputed 67.113461  stored 67.11346109  rel 2.4e-11  OK
+[ 12/266] B-PAR [0/90/0] L/h=50 m=3                    omega L^2/h sqrt(rho_ref  recomputed 142.36872  stored 142.3687165  rel -2.6e-10  OK
+[ 13/266] B-PAR [0/90/0] L/h=100 m=1                   omega L^2/h sqrt(rho_ref  recomputed 17.629408  stored 17.62940795  rel 2.0e-10  OK
+[ 14/266] B-PAR [0/90/0] L/h=100 m=2                   omega L^2/h sqrt(rho_ref  recomputed 69.794048  stored 69.79404802  rel -1.2e-11  OK
+[ 15/266] B-PAR [0/90/0] L/h=100 m=3                   omega L^2/h sqrt(rho_ref  recomputed 154.43432  stored 154.434322  rel 3.0e-10  OK
+[ 16/266] B-PAR [0/90] L/h=5 m=1                       omega L^2/h sqrt(rho_ref  recomputed 5.6598071  stored 5.659807068  rel 4.2e-11  OK
+[ 17/266] B-PAR [0/90] L/h=5 m=2                       omega L^2/h sqrt(rho_ref  recomputed 15.645977  stored 15.64597713  rel 1.3e-10  OK
+[ 18/266] B-PAR [0/90] L/h=5 m=3                       omega L^2/h sqrt(rho_ref  recomputed 26.31343  stored 26.31343036  rel -1.4e-11  OK
+[ 19/266] B-PAR [0/90] L/h=10 m=1                      omega L^2/h sqrt(rho_ref  recomputed 6.7549345  stored 6.754934501  rel 4.3e-11  OK
+[ 20/266] B-PAR [0/90] L/h=10 m=2                      omega L^2/h sqrt(rho_ref  recomputed 22.639228  stored 22.63922827  rel 1.3e-10  OK
+[ 21/266] B-PAR [0/90] L/h=10 m=3                      omega L^2/h sqrt(rho_ref  recomputed 42.003659  stored 42.00365929  rel 6.5e-11  OK
+[ 22/266] B-PAR [0/90] L/h=20 m=1                      omega L^2/h sqrt(rho_ref  recomputed 7.1594078  stored 7.159407768  rel 3.5e-12  OK
+[ 23/266] B-PAR [0/90] L/h=20 m=2                      omega L^2/h sqrt(rho_ref  recomputed 27.019738  stored 27.01973801  rel -1.8e-10  OK
+[ 24/266] B-PAR [0/90] L/h=20 m=3                      omega L^2/h sqrt(rho_ref  recomputed 55.97966  stored 55.97965972  rel 3.3e-11  OK
+[ 25/266] B-PAR [0/90] L/h=50 m=1                      omega L^2/h sqrt(rho_ref  recomputed 7.2877522  stored 7.287752167  rel 1.5e-11  OK
+[ 26/266] B-PAR [0/90] L/h=50 m=2                      omega L^2/h sqrt(rho_ref  recomputed 28.853992  stored 28.8539916  rel 3.1e-11  OK
+[ 27/266] B-PAR [0/90] L/h=50 m=3                      omega L^2/h sqrt(rho_ref  recomputed 63.855628  stored 63.85562819  rel 3.8e-12  OK
+[ 28/266] B-PAR [0/90] L/h=100 m=1                     omega L^2/h sqrt(rho_ref  recomputed 7.3067116  stored 7.306711613  rel 4.5e-11  OK
+[ 29/266] B-PAR [0/90] L/h=100 m=2                     omega L^2/h sqrt(rho_ref  recomputed 29.151009  stored 29.15100867  rel -5.3e-11  OK
+[ 30/266] B-PAR [0/90] L/h=100 m=3                     omega L^2/h sqrt(rho_ref  recomputed 65.30858  stored 65.30858031  rel -3.0e-11  OK
+[ 31/266] B-PAR sandwich L/h=5 m=1                     omega L^2/h sqrt(rho_ref  recomputed 1.7753617  stored 1.775361657  rel -1.3e-10  OK
+[ 32/266] B-PAR sandwich L/h=5 m=2                     omega L^2/h sqrt(rho_ref  recomputed 3.7577934  stored 3.757793356  rel 9.2e-11  OK
+[ 33/266] B-PAR sandwich L/h=5 m=3                     omega L^2/h sqrt(rho_ref  recomputed 5.633324  stored 5.63332396  rel 5.6e-11  OK
+[ 34/266] B-PAR sandwich L/h=10 m=1                    omega L^2/h sqrt(rho_ref  recomputed 2.9188316  stored 2.918831599  rel 1.7e-10  OK
+[ 35/266] B-PAR sandwich L/h=10 m=2                    omega L^2/h sqrt(rho_ref  recomputed 7.1014466  stored 7.101446627  rel 6.6e-12  OK
+[ 36/266] B-PAR sandwich L/h=10 m=3                    omega L^2/h sqrt(rho_ref  recomputed 11.129781  stored 11.12978098  rel 2.3e-10  OK
+[ 37/266] B-PAR sandwich L/h=20 m=1                    omega L^2/h sqrt(rho_ref  recomputed 3.8500155  stored 3.850015485  rel 1.1e-10  OK
+[ 38/266] B-PAR sandwich L/h=20 m=2                    omega L^2/h sqrt(rho_ref  recomputed 11.675326  stored 11.6753264  rel -1.8e-10  OK
+[ 39/266] B-PAR sandwich L/h=20 m=3                    omega L^2/h sqrt(rho_ref  recomputed 20.098896  stored 20.09889646  rel 1.5e-10  OK
+[ 40/266] B-PAR sandwich L/h=50 m=1                    omega L^2/h sqrt(rho_ref  recomputed 4.326538  stored 4.326537995  rel -9.0e-11  OK
+[ 41/266] B-PAR sandwich L/h=50 m=2                    omega L^2/h sqrt(rho_ref  recomputed 16.135595  stored 16.13559527  rel -2.9e-10  OK
+[ 42/266] B-PAR sandwich L/h=50 m=3                    omega L^2/h sqrt(rho_ref  recomputed 32.907291  stored 32.90729078  rel -1.1e-10  OK
+[ 43/266] B-PAR sandwich L/h=100 m=1                   omega L^2/h sqrt(rho_ref  recomputed 4.4104058  stored 4.410405808  rel -8.5e-11  OK
+[ 44/266] B-PAR sandwich L/h=100 m=2                   omega L^2/h sqrt(rho_ref  recomputed 17.306152  stored 17.30615198  rel -9.0e-11  OK
+[ 45/266] B-PAR sandwich L/h=100 m=3                   omega L^2/h sqrt(rho_ref  recomputed 37.772596  stored 37.77259632  rel -1.0e-10  OK
+[ 46/266] B-CHEN DATA-1 m=1                            f (Hz)  recomputed 57.494052  stored 57.494052  rel 8.0e-09  OK
+[ 47/266] B-CHEN DATA-1 m=2                            f (Hz)  recomputed 220.75001  stored 220.75001  rel 6.1e-09  OK
+[ 48/266] B-CHEN DATA-1 m=3                            f (Hz)  recomputed 467.08982  stored 467.08982  rel 1.1e-08  OK
+[ 49/266] B-CHEN DATA-1 m=4                            f (Hz)  recomputed 770.48832  stored 770.48832  rel -6.3e-09  OK
+[ 50/266] B-CHEN DATA-1 m=5                            f (Hz)  recomputed 1108.9922  stored 1108.9922  rel -2.5e-08  OK
+[ 51/266] B-CHEN DATA-1 m=6                            f (Hz)  recomputed 1467.0836  stored 1467.0836  rel -2.6e-08  OK
+[ 52/266] B-CHEN DATA-1 m=7                            f (Hz)  recomputed 1834.9244  stored 1834.9244  rel 2.6e-09  OK
+[ 53/266] B-CHEN DATA-1 m=8                            f (Hz)  recomputed 2206.7022  stored 2206.7022  rel -2.7e-10  OK
+[ 54/266] B-CHEN DATA-1 m=9                            f (Hz)  recomputed 2579.1575  stored 2579.1575  rel -1.9e-08  OK
+[ 55/266] B-CHEN DATA-2 m=1                            omega (rad/s)  recomputed 10.913779  stored 10.913779  rel -2.6e-08  OK
+[ 56/266] B-CHEN DATA-2 m=2                            omega (rad/s)  recomputed 32.061819  stored 32.061819  rel -1.3e-08  OK
+[ 57/266] B-CHEN DATA-2 m=3                            omega (rad/s)  recomputed 54.278651  stored 54.278651  rel -4.2e-09  OK
+[ 58/266] B-CHEN DATA-2 m=4                            omega (rad/s)  recomputed 76.13161  stored 76.13161  rel 3.5e-09  OK
+[ 59/266] B-CHEN DATA-2 m=5                            omega (rad/s)  recomputed 97.630918  stored 97.630918  rel 1.2e-09  OK
+[ 60/266] B-CHEN DATA-2 m=6                            omega (rad/s)  recomputed 118.9003  stored 118.9003  rel 6.4e-09  OK
+[ 61/266] B-CHEN DATA-2 m=7                            omega (rad/s)  recomputed 140.03236  stored 140.03236  rel 1.1e-08  OK
+[ 62/266] B-CHEN DATA-2 m=8                            omega (rad/s)  recomputed 161.08879  stored 161.08879  rel 1.9e-08  OK
+[ 63/266] B-CHEN DATA-2 m=9                            omega (rad/s)  recomputed 182.11139  stored 182.11139  rel -6.5e-09  OK
+[ 64/266] B-CHEN DATA-4 m=1                            omega L^2/H sqrt(rho/E1)  recomputed 1.6549536  stored 1.6549536  rel -9.9e-09  OK
+[ 65/266] B-CHEN DATA-4 m=2                            omega L^2/H sqrt(rho/E1)  recomputed 3.9055995  stored 3.9055995  rel 8.9e-09  OK
+[ 66/266] B-CHEN DATA-4 m=3                            omega L^2/H sqrt(rho/E1)  recomputed 6.1360437  stored 6.1360437  rel -8.5e-10  OK
+[ 67/266] B-CHEN DATA-4 m=4                            omega L^2/H sqrt(rho/E1)  recomputed 8.3594174  stored 8.3594174  rel -5.4e-09  OK
+[ 68/266] B-CHEN DATA-4 m=5                            omega L^2/H sqrt(rho/E1)  recomputed 10.580283  stored 10.580283  rel 3.7e-08  OK
+[ 69/266] B-CHEN DATA-4 m=6                            omega L^2/H sqrt(rho/E1)  recomputed 12.79994  stored 12.79994  rel -2.4e-08  OK
+[ 70/266] B-CHEN DATA-4 m=7                            omega L^2/H sqrt(rho/E1)  recomputed 15.018897  stored 15.018897  rel 1.9e-08  OK
+[ 71/266] B-CHEN DATA-4 m=8                            omega L^2/H sqrt(rho/E1)  recomputed 17.237404  stored 17.237406  rel -1.4e-07  OK
+[ 72/266] B-CHEN DATA-4 m=9                            omega L^2/H sqrt(rho/E1)  recomputed 19.45556  stored 19.45564  rel -4.1e-06  OK
+[ 73/266] B-K5 L/h=5 m=1 narrow                        Omega=omega L^2 sqrt(rho  recomputed 7.2551119  stored 7.25511  rel 2.7e-07  OK
+[ 74/266] B-K5 L/h=5 m=2 narrow                        Omega=omega L^2 sqrt(rho  recomputed 18.837209  stored 18.8372  rel 4.7e-07  OK
+[ 75/266] B-K5 L/h=5 m=3 narrow                        Omega=omega L^2 sqrt(rho  recomputed 32.768518  stored 32.7685  rel 5.6e-07  OK
+[ 76/266] B-K5 L/h=5 m=4 narrow                        Omega=omega L^2 sqrt(rho  recomputed 47.602305  stored 47.6023  rel 9.5e-08  OK
+[ 77/266] B-K5 L/h=10 m=1 narrow                       Omega=omega L^2 sqrt(rho  recomputed 10.151555  stored 10.1516  rel -4.4e-06  OK
+[ 78/266] B-K5 L/h=10 m=2 narrow                       Omega=omega L^2 sqrt(rho  recomputed 29.020448  stored 29.0204  rel 1.6e-06  OK
+[ 79/266] B-K5 L/h=10 m=3 narrow                       Omega=omega L^2 sqrt(rho  recomputed 50.832097  stored 50.8321  rel -5.0e-08  OK
+[ 80/266] B-K5 L/h=10 m=4 narrow                       Omega=omega L^2 sqrt(rho  recomputed 75.348836  stored 75.3488  rel 4.7e-07  OK
+[ 81/266] B-K5 L/h=20 m=1 narrow                       Omega=omega L^2 sqrt(rho  recomputed 11.924342  stored 11.9243  rel 3.5e-06  OK
+[ 82/266] B-K5 L/h=20 m=2 narrow                       Omega=omega L^2 sqrt(rho  recomputed 40.606221  stored 40.6062  rel 5.2e-07  OK
+[ 83/266] B-K5 L/h=20 m=3 narrow                       Omega=omega L^2 sqrt(rho  recomputed 76.577236  stored 76.5772  rel 4.8e-07  OK
+[ 84/266] B-K5 L/h=20 m=4 narrow                       Omega=omega L^2 sqrt(rho  recomputed 116.08179  stored 116.082  rel -1.8e-06  OK
+[ 85/266] B-K5 L/h=5 m=1 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 7.26301  stored 7.26301  rel -6.5e-09  OK
+[ 86/266] B-K5 L/h=5 m=2 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 18.868242  stored 18.8682  rel 2.2e-06  OK
+[ 87/266] B-K5 L/h=5 m=3 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 32.865308  stored 32.8653  rel 2.6e-07  OK
+[ 88/266] B-K5 L/h=5 m=4 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 47.856558  stored 47.8566  rel -8.8e-07  OK
+[ 89/266] B-K5 L/h=10 m=1 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 10.163909  stored 10.1639  rel 9.3e-07  OK
+[ 90/266] B-K5 L/h=10 m=2 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 29.05204  stored 29.052  rel 1.4e-06  OK
+[ 91/266] B-K5 L/h=10 m=3 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 50.897184  stored 50.8972  rel -3.0e-07  OK
+[ 92/266] B-K5 L/h=10 m=4 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 75.472969  stored 75.473  rel -4.1e-07  OK
+[ 93/266] B-K5 L/h=20 m=1 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 11.94151  stored 11.9415  rel 8.0e-07  OK
+[ 94/266] B-K5 L/h=20 m=2 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 40.655638  stored 40.6556  rel 9.3e-07  OK
+[ 95/266] B-K5 L/h=20 m=3 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 76.661232  stored 76.6612  rel 4.1e-07  OK
+[ 96/266] B-K5 L/h=20 m=4 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 116.20816  stored 116.208  rel 1.4e-06  OK
+[ 97/266] B-K4 L/h=5 m=1 narrow                        Omega=omega L^2 sqrt(rho  recomputed 5.7010825  stored 5.70108  rel 4.4e-07  OK
+[ 98/266] B-K4 L/h=5 m=2 narrow                        Omega=omega L^2 sqrt(rho  recomputed 14.9878  stored 14.9878  rel -2.3e-08  OK
+[ 99/266] B-K4 L/h=5 m=3 narrow                        Omega=omega L^2 sqrt(rho  recomputed 24.924472  stored 24.9245  rel -1.1e-06  OK
+[100/266] B-K4 L/h=5 m=4 narrow                        Omega=omega L^2 sqrt(rho  recomputed 35.254717  stored 35.2547  rel 4.7e-07  OK
+[101/266] B-K4 L/h=5 m=5 narrow                        Omega=omega L^2 sqrt(rho  recomputed 45.757435  stored 45.7574  rel 7.5e-07  OK
+[102/266] B-K4 L/h=10 m=1 narrow                       Omega=omega L^2 sqrt(rho  recomputed 7.1585657  stored 7.15857  rel -6.0e-07  OK
+[103/266] B-K4 L/h=10 m=2 narrow                       Omega=omega L^2 sqrt(rho  recomputed 22.80433  stored 22.8043  rel 1.3e-06  OK
+[104/266] B-K4 L/h=10 m=3 narrow                       Omega=omega L^2 sqrt(rho  recomputed 40.935711  stored 40.9357  rel 2.7e-07  OK
+[105/266] B-K4 L/h=10 m=4 narrow                       Omega=omega L^2 sqrt(rho  recomputed 59.951199  stored 59.9512  rel -2.3e-08  OK
+[106/266] B-K4 L/h=10 m=5 narrow                       Omega=omega L^2 sqrt(rho  recomputed 79.572418  stored 79.5724  rel 2.2e-07  OK
+[107/266] B-K4 L/h=5 m=1 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 5.7082537  stored 5.70825  rel 6.6e-07  OK
+[108/266] B-K4 L/h=5 m=2 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 15.004466  stored 15.0045  rel -2.3e-06  OK
+[109/266] B-K4 L/h=5 m=3 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 24.955482  stored 24.9555  rel -7.2e-07  OK
+[110/266] B-K4 L/h=5 m=4 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 35.3066  stored 35.3066  rel 1.4e-08  OK
+[111/266] B-K4 L/h=5 m=5 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 45.838155  stored 45.8382  rel -9.7e-07  OK
+[112/266] B-K4 L/h=10 m=1 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 7.1697015  stored 7.1697  rel 2.1e-07  OK
+[113/266] B-K4 L/h=10 m=2 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 22.833015  stored 22.833  rel 6.6e-07  OK
+[114/266] B-K4 L/h=10 m=3 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 40.981793  stored 40.9818  rel -1.8e-07  OK
+[115/266] B-K4 L/h=10 m=4 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 60.017863  stored 60.0179  rel -6.1e-07  OK
+[116/266] B-K4 L/h=10 m=5 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 79.6648  stored 79.6648  rel 3.4e-09  OK
+[117/266] B-SW L/h=2 m=1 narrow                        Omega=omega L^2 sqrt(rho  recomputed 0.44052068  stored 0.440521  rel -7.3e-07  OK
+[118/266] B-SW L/h=4 m=1 narrow                        Omega=omega L^2 sqrt(rho  recomputed 0.61412829  stored 0.614128  rel 4.6e-07  OK
+[119/266] B-SW L/h=10 m=1 narrow                       Omega=omega L^2 sqrt(rho  recomputed 1.281874  stored 1.28187  rel 3.1e-06  OK
+[120/266] B-SW L/h=20 m=1 narrow                       Omega=omega L^2 sqrt(rho  recomputed 2.4356194  stored 2.43562  rel -2.4e-07  OK
+[121/266] B-SW L/h=50 m=1 narrow                       Omega=omega L^2 sqrt(rho  recomputed 5.3286801  stored 5.32868  rel 1.8e-08  OK
+[122/266] B-SW L/h=100 m=1 narrow                      Omega=omega L^2 sqrt(rho  recomputed 7.9622863  stored 7.96229  rel -4.6e-07  OK
+[123/266] B-SW L/h=4 m=2 narrow                        Omega=omega L^2 sqrt(rho  recomputed 1.7620827  stored 1.76208  rel 1.5e-06  OK
+[124/266] B-SW L/h=4 m=3 narrow                        Omega=omega L^2 sqrt(rho  recomputed 3.5690313  stored 3.56903  rel 3.7e-07  OK
+[125/266] B-SW L/h=4 m=4 narrow                        Omega=omega L^2 sqrt(rho  recomputed 5.7953594  stored 5.79536  rel -1.1e-07  OK
+[126/266] B-SW L/h=4 m=5 narrow                        Omega=omega L^2 sqrt(rho  recomputed 7.2891199  stored 7.28912  rel -1.9e-08  OK
+[127/266] B-SW L/h=10 m=2 narrow                       Omega=omega L^2 sqrt(rho  recomputed 2.868157  stored 2.86816  rel -1.1e-06  OK
+[128/266] B-SW L/h=10 m=3 narrow                       Omega=omega L^2 sqrt(rho  recomputed 4.9512527  stored 4.95125  rel 5.5e-07  OK
+[129/266] B-SW L/h=10 m=4 narrow                       Omega=omega L^2 sqrt(rho  recomputed 7.6488638  stored 7.64886  rel 5.0e-07  OK
+[130/266] B-SW L/h=10 m=5 narrow                       Omega=omega L^2 sqrt(rho  recomputed 11.013017  stored 11.013  rel 1.5e-06  OK
+[131/266] B-SW L/h=2 m=1 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 0.44110071  stored 0.441101  rel -6.5e-07  OK
+[132/266] B-SW L/h=4 m=1 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 0.61454898  stored 0.614549  rel -2.9e-08  OK
+[133/266] B-SW L/h=10 m=1 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 1.282107  stored 1.28211  rel -2.4e-06  OK
+[134/266] B-SW L/h=20 m=1 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 2.4359721  stored 2.43597  rel 8.5e-07  OK
+[135/266] B-SW L/h=50 m=1 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 5.3313921  stored 5.33139  rel 3.9e-07  OK
+[136/266] B-SW L/h=100 m=1 plane_strain                Omega=omega L^2 sqrt(rho  recomputed 7.971248  stored 7.97125  rel -2.5e-07  OK
+[137/266] B-SW L/h=4 m=2 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 1.7644029  stored 1.7644  rel 1.6e-06  OK
+[138/266] B-SW L/h=4 m=3 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 3.574466  stored 3.57447  rel -1.1e-06  OK
+[139/266] B-SW L/h=4 m=4 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 5.8024441  stored 5.80244  rel 7.1e-07  OK
+[140/266] B-SW L/h=4 m=5 plane_strain                  Omega=omega L^2 sqrt(rho  recomputed 7.2912109  stored 7.29121  rel 1.3e-07  OK
+[141/266] B-SW L/h=10 m=2 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 2.8696066  stored 2.86961  rel -1.2e-06  OK
+[142/266] B-SW L/h=10 m=3 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 4.9554706  stored 4.95547  rel 1.2e-07  OK
+[143/266] B-SW L/h=10 m=4 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 7.657469  stored 7.65747  rel -1.3e-07  OK
+[144/266] B-SW L/h=10 m=5 plane_strain                 Omega=omega L^2 sqrt(rho  recomputed 11.027518  stored 11.0275  rel 1.6e-06  OK
+[145/266] P-PAR [0/90/0] a/h=5 (1,1)                   omega a^2/h sqrt(rho/E2)  recomputed 10.231805  stored 10.23181  rel -4.9e-07  OK
+[146/266] P-PAR [0/90/0] a/h=5 (1,2)                   omega a^2/h sqrt(rho/E2)  recomputed 15.66011  stored 15.66011  rel 1.7e-08  OK
+[147/266] P-PAR [0/90/0] a/h=5 (2,1)                   omega a^2/h sqrt(rho/E2)  recomputed 21.58066  stored 21.58066  rel -1.0e-08  OK
+[148/266] P-PAR [0/90/0] a/h=5 (2,2)                   omega a^2/h sqrt(rho/E2)  recomputed 24.719524  stored 24.71952  rel 1.7e-07  OK
+[149/266] P-PAR [0/90/0] a/h=10 (1,1)                  omega a^2/h sqrt(rho/E2)  recomputed 14.696168  stored 14.69617  rel -1.3e-07  OK
+[150/266] P-PAR [0/90/0] a/h=10 (1,2)                  omega a^2/h sqrt(rho/E2)  recomputed 21.674993  stored 21.67499  rel 1.6e-07  OK
+[151/266] P-PAR [0/90/0] a/h=10 (2,1)                  omega a^2/h sqrt(rho/E2)  recomputed 37.353707  stored 37.35371  rel -8.0e-08  OK
+[152/266] P-PAR [0/90/0] a/h=10 (2,2)                  omega a^2/h sqrt(rho/E2)  recomputed 40.92722  stored 40.92722  rel 3.5e-09  OK
+[153/266] P-PAR [0/90/0] a/h=20 (1,1)                  omega a^2/h sqrt(rho/E2)  recomputed 17.480876  stored 17.48088  rel -2.2e-07  OK
+[154/266] P-PAR [0/90/0] a/h=20 (1,2)                  omega a^2/h sqrt(rho/E2)  recomputed 25.191803  stored 25.1918  rel 1.3e-07  OK
+[155/266] P-PAR [0/90/0] a/h=20 (2,1)                  omega a^2/h sqrt(rho/E2)  recomputed 55.092403  stored 55.0924  rel 4.8e-08  OK
+[156/266] P-PAR [0/90/0] a/h=20 (2,2)                  omega a^2/h sqrt(rho/E2)  recomputed 58.784673  stored 58.78467  rel 4.5e-08  OK
+[157/266] P-PAR [0/90/0] a/h=50 (1,1)                  omega a^2/h sqrt(rho/E2)  recomputed 18.640305  stored 18.6403  rel 2.5e-07  OK
+[158/266] P-PAR [0/90/0] a/h=50 (1,2)                  omega a^2/h sqrt(rho/E2)  recomputed 26.627763  stored 26.62776  rel 1.2e-07  OK
+[159/266] P-PAR [0/90/0] a/h=50 (2,1)                  omega a^2/h sqrt(rho/E2)  recomputed 67.923335  stored 67.92333  rel 7.2e-08  OK
+[160/266] P-PAR [0/90/0] a/h=50 (2,2)                  omega a^2/h sqrt(rho/E2)  recomputed 71.79242  stored 71.79242  rel 5.2e-09  OK
+[161/266] P-PAR [0/90/0] a/h=100 (1,1)                 omega a^2/h sqrt(rho/E2)  recomputed 18.82753  stored 18.82753  rel 4.6e-09  OK
+[162/266] P-PAR [0/90/0] a/h=100 (1,2)                 omega a^2/h sqrt(rho/E2)  recomputed 26.858793  stored 26.85879  rel 1.0e-07  OK
+[163/266] P-PAR [0/90/0] a/h=100 (2,1)                 omega a^2/h sqrt(rho/E2)  recomputed 70.637489  stored 70.63749  rel -7.8e-09  OK
+[164/266] P-PAR [0/90/0] a/h=100 (2,2)                 omega a^2/h sqrt(rho/E2)  recomputed 74.561218  stored 74.56122  rel -2.2e-08  OK
+[165/266] P-PAR [0/90/90/0] a/h=5 (1,1)                omega a^2/h sqrt(rho/E2)  recomputed 10.682139  stored 10.68214  rel -7.4e-08  OK
+[166/266] P-PAR [0/90/90/0] a/h=5 (1,2)                omega a^2/h sqrt(rho/E2)  recomputed 17.451701  stored 17.4517  rel 7.0e-08  OK
+[167/266] P-PAR [0/90/90/0] a/h=5 (2,1)                omega a^2/h sqrt(rho/E2)  recomputed 21.520651  stored 21.52065  rel 7.0e-08  OK
+[168/266] P-PAR [0/90/90/0] a/h=5 (2,2)                omega a^2/h sqrt(rho/E2)  recomputed 25.622246  stored 25.62225  rel -1.4e-07  OK
+[169/266] P-PAR [0/90/90/0] a/h=10 (1,1)               omega a^2/h sqrt(rho/E2)  recomputed 15.068588  stored 15.06859  rel -1.2e-07  OK
+[170/266] P-PAR [0/90/90/0] a/h=10 (1,2)               omega a^2/h sqrt(rho/E2)  recomputed 25.791833  stored 25.79183  rel 1.2e-07  OK
+[171/266] P-PAR [0/90/90/0] a/h=10 (2,1)               omega a^2/h sqrt(rho/E2)  recomputed 36.969588  stored 36.96959  rel -6.5e-08  OK
+[172/266] P-PAR [0/90/90/0] a/h=10 (2,2)               omega a^2/h sqrt(rho/E2)  recomputed 42.728557  stored 42.72856  rel -7.4e-08  OK
+[173/266] P-PAR [0/90/90/0] a/h=20 (1,1)               omega a^2/h sqrt(rho/E2)  recomputed 17.63551  stored 17.63551  rel -3.4e-10  OK
+[174/266] P-PAR [0/90/90/0] a/h=20 (1,2)               omega a^2/h sqrt(rho/E2)  recomputed 31.093271  stored 31.09327  rel 2.4e-08  OK
+[175/266] P-PAR [0/90/90/0] a/h=20 (2,1)               omega a^2/h sqrt(rho/E2)  recomputed 53.756922  stored 53.75692  rel 3.9e-08  OK
+[176/266] P-PAR [0/90/90/0] a/h=20 (2,2)               omega a^2/h sqrt(rho/E2)  recomputed 60.274353  stored 60.27435  rel 5.0e-08  OK
+[177/266] P-PAR [0/90/90/0] a/h=50 (1,1)               omega a^2/h sqrt(rho/E2)  recomputed 18.669941  stored 18.66994  rel 6.6e-08  OK
+[178/266] P-PAR [0/90/90/0] a/h=50 (1,2)               omega a^2/h sqrt(rho/E2)  recomputed 33.334316  stored 33.33432  rel -1.1e-07  OK
+[179/266] P-PAR [0/90/90/0] a/h=50 (2,1)               omega a^2/h sqrt(rho/E2)  recomputed 65.380955  stored 65.38096  rel -7.1e-08  OK
+[180/266] P-PAR [0/90/90/0] a/h=50 (2,2)               omega a^2/h sqrt(rho/E2)  recomputed 72.218921  stored 72.21892  rel 1.0e-08  OK
+[181/266] P-PAR [0/90/90/0] a/h=100 (1,1)              omega a^2/h sqrt(rho/E2)  recomputed 18.835148  stored 18.83515  rel -9.4e-08  OK
+[182/266] P-PAR [0/90/90/0] a/h=100 (1,2)              omega a^2/h sqrt(rho/E2)  recomputed 33.698625  stored 33.69862  rel 1.4e-07  OK
+[183/266] P-PAR [0/90/90/0] a/h=100 (2,1)              omega a^2/h sqrt(rho/E2)  recomputed 67.775999  stored 67.776  rel -1.3e-08  OK
+[184/266] P-PAR [0/90/90/0] a/h=100 (2,2)              omega a^2/h sqrt(rho/E2)  recomputed 74.679765  stored 74.67976  rel 6.6e-08  OK
+[185/266] P-PAR [0/90] a/h=5 (1,1)                     omega a^2/h sqrt(rho/E2)  recomputed 8.5268756  stored 8.526876  rel -5.0e-08  OK
+[186/266] P-PAR [0/90] a/h=5 (1,2)                     omega a^2/h sqrt(rho/E2)  recomputed 17.239428  stored 17.23943  rel -8.9e-08  OK
+[187/266] P-PAR [0/90] a/h=5 (2,1)                     omega a^2/h sqrt(rho/E2)  recomputed 17.239428  stored 17.23943  rel -8.9e-08  OK
+[188/266] P-PAR [0/90] a/h=5 (2,2)                     omega a^2/h sqrt(rho/E2)  recomputed 23.213301  stored 23.2133  rel 4.1e-08  OK
+[189/266] P-PAR [0/90] a/h=10 (1,1)                    omega a^2/h sqrt(rho/E2)  recomputed 10.336414  stored 10.33641  rel 4.0e-07  OK
+[190/266] P-PAR [0/90] a/h=10 (1,2)                    omega a^2/h sqrt(rho/E2)  recomputed 24.589738  stored 24.58974  rel -8.2e-08  OK
+[191/266] P-PAR [0/90] a/h=10 (2,1)                    omega a^2/h sqrt(rho/E2)  recomputed 24.589738  stored 24.58974  rel -8.2e-08  OK
+[192/266] P-PAR [0/90] a/h=10 (2,2)                    omega a^2/h sqrt(rho/E2)  recomputed 34.107502  stored 34.1075  rel 6.7e-08  OK
+[193/266] P-PAR [0/90] a/h=20 (1,1)                    omega a^2/h sqrt(rho/E2)  recomputed 11.036739  stored 11.03674  rel -8.5e-08  OK
+[194/266] P-PAR [0/90] a/h=20 (1,2)                    omega a^2/h sqrt(rho/E2)  recomputed 29.173736  stored 29.17374  rel -1.5e-07  OK
+[195/266] P-PAR [0/90] a/h=20 (2,1)                    omega a^2/h sqrt(rho/E2)  recomputed 29.173736  stored 29.17374  rel -1.5e-07  OK
+[196/266] P-PAR [0/90] a/h=20 (2,2)                    omega a^2/h sqrt(rho/E2)  recomputed 41.345656  stored 41.34566  rel -8.6e-08  OK
+[197/266] P-PAR [0/90] a/h=50 (1,1)                    omega a^2/h sqrt(rho/E2)  recomputed 11.26354  stored 11.26354  rel 2.4e-09  OK
+[198/266] P-PAR [0/90] a/h=50 (1,2)                    omega a^2/h sqrt(rho/E2)  recomputed 31.100396  stored 31.1004  rel -1.4e-07  OK
+[199/266] P-PAR [0/90] a/h=50 (2,1)                    omega a^2/h sqrt(rho/E2)  recomputed 31.100396  stored 31.1004  rel -1.4e-07  OK
+[200/266] P-PAR [0/90] a/h=50 (2,2)                    omega a^2/h sqrt(rho/E2)  recomputed 44.528138  stored 44.52814  rel -3.6e-08  OK
+[201/266] P-PAR [0/90] a/h=100 (1,1)                   omega a^2/h sqrt(rho/E2)  recomputed 11.297248  stored 11.29725  rel -2.2e-07  OK
+[202/266] P-PAR [0/90] a/h=100 (1,2)                   omega a^2/h sqrt(rho/E2)  recomputed 31.41303  stored 31.41303  rel 7.4e-09  OK
+[203/266] P-PAR [0/90] a/h=100 (2,1)                   omega a^2/h sqrt(rho/E2)  recomputed 31.41303  stored 31.41303  rel 7.4e-09  OK
+[204/266] P-PAR [0/90] a/h=100 (2,2)                   omega a^2/h sqrt(rho/E2)  recomputed 45.05416  stored 45.05416  rel 2.4e-09  OK
+[205/266] P-RP [0/90/90/0] a/h=4                       omega a^2/h sqrt(rho/E2)  recomputed 9.1928751  stored 9.19288  rel -5.3e-07  OK
+[206/266] P-RP [0/90/90/0] a/h=5                       omega a^2/h sqrt(rho/E2)  recomputed 10.682139  stored 10.6821  rel 3.7e-06  OK
+[207/266] P-RP [0/90/90/0] a/h=10                      omega a^2/h sqrt(rho/E2)  recomputed 15.068588  stored 15.0686  rel -7.8e-07  OK
+[208/266] P-RP [0/90/90/0] a/h=20                      omega a^2/h sqrt(rho/E2)  recomputed 17.63551  stored 17.6355  rel 5.7e-07  OK
+[209/266] P-RP [0/90/90/0] a/h=50                      omega a^2/h sqrt(rho/E2)  recomputed 18.669941  stored 18.6699  rel 2.2e-06  OK
+[210/266] P-RP [0/90/90/0] a/h=100                     omega a^2/h sqrt(rho/E2)  recomputed 18.835148  stored 18.8351  rel 2.6e-06  OK
+[211/266] P-RP [0/90/90/0] a/h=2                       omega a^2/h sqrt(rho/E2)  recomputed 5.3146581  stored 5.31466  rel -3.6e-07  OK
+[212/266] P-RP [0/90/90/0] a/h=25                      omega a^2/h sqrt(rho/E2)  recomputed 18.05473  stored 18.0547  rel 1.7e-06  OK
+[213/266] P-RP [0/90] a/h=4                            omega a^2/h sqrt(rho/E2)  recomputed 7.6920097  stored 7.69201  rel -4.3e-08  OK
+[214/266] P-RP [0/90] a/h=5                            omega a^2/h sqrt(rho/E2)  recomputed 8.5268756  stored 8.52688  rel -5.2e-07  OK
+[215/266] P-RP [0/90] a/h=10                           omega a^2/h sqrt(rho/E2)  recomputed 10.336414  stored 10.3364  rel 1.4e-06  OK
+[216/266] P-RP [0/90] a/h=20                           omega a^2/h sqrt(rho/E2)  recomputed 11.036739  stored 11.0367  rel 3.5e-06  OK
+[217/266] P-RP [0/90] a/h=50                           omega a^2/h sqrt(rho/E2)  recomputed 11.26354  stored 11.2635  rel 3.6e-06  OK
+[218/266] P-RP [0/90] a/h=100                          omega a^2/h sqrt(rho/E2)  recomputed 11.297248  stored 11.2972  rel 4.2e-06  OK
+[219/266] P-NOOR [0/90/90/0] a/h=5 E1/E2=3             omega a^2/h sqrt(rho/E2)  recomputed 6.576705  stored 6.57671  rel -7.6e-07  OK
+[220/266] P-NOOR [0/90/90/0] a/h=5 E1/E2=10            omega a^2/h sqrt(rho/E2)  recomputed 8.2769904  stored 8.27699  rel 4.3e-08  OK
+[221/266] P-NOOR [0/90/90/0] a/h=5 E1/E2=20            omega a^2/h sqrt(rho/E2)  recomputed 9.4989524  stored 9.49895  rel 2.6e-07  OK
+[222/266] P-NOOR [0/90/90/0] a/h=5 E1/E2=30            omega a^2/h sqrt(rho/E2)  recomputed 10.206176  stored 10.2062  rel -2.3e-06  OK
+[223/266] P-NOOR [0/90/90/0] a/h=5 E1/E2=40            omega a^2/h sqrt(rho/E2)  recomputed 10.682139  stored 10.6821  rel 3.7e-06  OK
+[224/266] P-NOOR (0/90)_1 a/h=5 E1/E2=3                omega a^2/h sqrt(rho/E2)  recomputed 6.2317191  stored 6.23172  rel -1.5e-07  OK
+[225/266] P-NOOR (0/90)_1 a/h=5 E1/E2=10               omega a^2/h sqrt(rho/E2)  recomputed 6.955468  stored 6.95547  rel -2.8e-07  OK
+[226/266] P-NOOR (0/90)_1 a/h=5 E1/E2=20               omega a^2/h sqrt(rho/E2)  recomputed 7.6427144  stored 7.64271  rel 5.7e-07  OK
+[227/266] P-NOOR (0/90)_1 a/h=5 E1/E2=30               omega a^2/h sqrt(rho/E2)  recomputed 8.1422736  stored 8.14227  rel 4.4e-07  OK
+[228/266] P-NOOR (0/90)_1 a/h=5 E1/E2=40               omega a^2/h sqrt(rho/E2)  recomputed 8.5268756  stored 8.52688  rel -5.2e-07  OK
+[229/266] P-NOOR (0/90)_2 a/h=5 E1/E2=3                omega a^2/h sqrt(rho/E2)  recomputed 6.5043397  stored 6.50434  rel -5.1e-08  OK
+[230/266] P-NOOR (0/90)_2 a/h=5 E1/E2=10               omega a^2/h sqrt(rho/E2)  recomputed 8.0927462  stored 8.09275  rel -4.7e-07  OK
+[231/266] P-NOOR (0/90)_2 a/h=5 E1/E2=20               omega a^2/h sqrt(rho/E2)  recomputed 9.3452899  stored 9.34529  rel -8.7e-09  OK
+[232/266] P-NOOR (0/90)_2 a/h=5 E1/E2=30               omega a^2/h sqrt(rho/E2)  recomputed 10.099742  stored 10.0997  rel 4.1e-06  OK
+[233/266] P-NOOR (0/90)_2 a/h=5 E1/E2=40               omega a^2/h sqrt(rho/E2)  recomputed 10.611137  stored 10.6111  rel 3.5e-06  OK
+[234/266] P-NOOR (0/90)_3 a/h=5 E1/E2=3                omega a^2/h sqrt(rho/E2)  recomputed 6.5637741  stored 6.56377  rel 6.3e-07  OK
+[235/266] P-NOOR (0/90)_3 a/h=5 E1/E2=10               omega a^2/h sqrt(rho/E2)  recomputed 8.3548421  stored 8.35484  rel 2.5e-07  OK
+[236/266] P-NOOR (0/90)_3 a/h=5 E1/E2=20               omega a^2/h sqrt(rho/E2)  recomputed 9.7695206  stored 9.76952  rel 6.5e-08  OK
+[237/266] P-NOOR (0/90)_3 a/h=5 E1/E2=30               omega a^2/h sqrt(rho/E2)  recomputed 10.619023  stored 10.619  rel 2.2e-06  OK
+[238/266] P-NOOR (0/90)_3 a/h=5 E1/E2=40               omega a^2/h sqrt(rho/E2)  recomputed 11.191775  stored 11.1918  rel -2.2e-06  OK
+[239/266] P-NOOR (0/90)_5 a/h=5 E1/E2=3                omega a^2/h sqrt(rho/E2)  recomputed 6.5954442  stored 6.59544  rel 6.3e-07  OK
+[240/266] P-NOOR (0/90)_5 a/h=5 E1/E2=10               omega a^2/h sqrt(rho/E2)  recomputed 8.4969588  stored 8.49696  rel -1.4e-07  OK
+[241/266] P-NOOR (0/90)_5 a/h=5 E1/E2=20               omega a^2/h sqrt(rho/E2)  recomputed 10.006437  stored 10.0064  rel 3.7e-06  OK
+[242/266] P-NOOR (0/90)_5 a/h=5 E1/E2=30               omega a^2/h sqrt(rho/E2)  recomputed 10.917321  stored 10.9173  rel 2.0e-06  OK
+[243/266] P-NOOR (0/90)_5 a/h=5 E1/E2=40               omega a^2/h sqrt(rho/E2)  recomputed 11.534044  stored 11.534  rel 3.8e-06  OK
+[244/266] P-L2 a/2h=10 tc/tf=4 (1,1) T6norm            omega a^2/(2h) sqrt(rho_  recomputed 1.9084379  stored 1.90844  rel -1.1e-06  OK
+[245/266] P-L2 a/2h=10 tc/tf=4 (1,1) T7norm            omega a^2/h sqrt(rho_f/E  recomputed 3.8168758  stored 3.81688  rel -1.1e-06  OK
+[246/266] P-L2 a/2h=10 tc/tf=10 (1,1) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 1.8479901  stored 1.84799  rel 4.1e-08  OK
+[247/266] P-L2 a/2h=10 tc/tf=10 (1,1) T7norm           omega a^2/h sqrt(rho_f/E  recomputed 3.6959802  stored 3.69598  rel 4.1e-08  OK
+[248/266] P-L2 a/2h=10 tc/tf=20 (1,1) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 2.1308433  stored 2.13084  rel 1.6e-06  OK
+[249/266] P-L2 a/2h=10 tc/tf=20 (1,1) T7norm           omega a^2/h sqrt(rho_f/E  recomputed 4.2616867  stored 4.26169  rel -7.8e-07  OK
+[250/266] P-L2 a/2h=10 tc/tf=30 (1,1) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 2.3324644  stored 2.33246  rel 1.9e-06  OK
+[251/266] P-L2 a/2h=10 tc/tf=30 (1,1) T7norm           omega a^2/h sqrt(rho_f/E  recomputed 4.6649288  stored 4.66493  rel -2.6e-07  OK
+[252/266] P-L2 a/2h=10 tc/tf=40 (1,1) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 2.4694447  stored 2.46944  rel 1.9e-06  OK
+[253/266] P-L2 a/2h=10 tc/tf=40 (1,1) T7norm           omega a^2/h sqrt(rho_f/E  recomputed 4.9388894  stored 4.93889  rel -1.3e-07  OK
+[254/266] P-L2 a/2h=10 tc/tf=50 (1,1) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 2.5663879  stored 2.56639  rel -8.3e-07  OK
+[255/266] P-L2 a/2h=10 tc/tf=50 (1,1) T7norm           omega a^2/h sqrt(rho_f/E  recomputed 5.1327757  stored 5.13278  rel -8.3e-07  OK
+[256/266] P-L2 a/2h=10 tc/tf=10 (1,2) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 3.2199741  stored 3.21997  rel 1.3e-06  OK
+[257/266] P-L2 a/2h=10 tc/tf=10 (2,2) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 4.2904377  stored 4.29044  rel -5.4e-07  OK
+[258/266] P-L2 a/2h=10 tc/tf=10 (1,3) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 5.2246458  stored 5.22465  rel -8.1e-07  OK
+[259/266] P-L2 a/2h=10 tc/tf=10 (2,3) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 6.0962857  stored 6.09629  rel -7.1e-07  OK
+[260/266] P-L2 a/2h=10 tc/tf=10 (3,3) T6norm           omega a^2/(2h) sqrt(rho_  recomputed 7.6803873  stored 7.68039  rel -3.6e-07  OK
+[261/266] P-L2 a/2h=100 tc/tf=10 (1,1) T6norm          omega a^2/(2h) sqrt(rho_  recomputed 11.941731  stored 11.9417  rel 2.6e-06  OK
+[262/266] P-L2 a/2h=100 tc/tf=10 (1,2) T6norm          omega a^2/(2h) sqrt(rho_  recomputed 23.401797  stored 23.4018  rel -1.4e-07  OK
+[263/266] P-L2 a/2h=100 tc/tf=10 (2,2) T6norm          omega a^2/(2h) sqrt(rho_  recomputed 30.942635  stored 30.9426  rel 1.1e-06  OK
+[264/266] P-L2 a/2h=100 tc/tf=10 (1,3) T6norm          omega a^2/(2h) sqrt(rho_  recomputed 36.14131  stored 36.1413  rel 2.8e-07  OK
+[265/266] P-L2 a/2h=100 tc/tf=10 (2,3) T6norm          omega a^2/(2h) sqrt(rho_  recomputed 41.445204  stored 41.4452  rel 9.3e-08  OK
+[266/266] P-L2 a/2h=100 tc/tf=10 (3,3) T6norm          omega a^2/(2h) sqrt(rho_  recomputed 49.758766  stored 49.7588  rel -6.8e-07  OK
+
+266 cases, 0 outside tolerance; report: validation/validation_report.md
+exit 0
