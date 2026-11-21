@@ -4,8 +4,8 @@ Reproducibility package of the manuscript *Mixed quasi-3D finite elements for th
 and plates: a critical review with elasticity benchmarks* (prepared for Archives of Computational Methods in
 Engineering).
 
-**Repository:** https://github.com/kanig15123/Exact_Elasticity (public). **Licence:** none chosen yet, so no
-reuse licence is granted (see `LICENSE_NOTE.md`).
+**Repository:** https://github.com/kanig15123/Exact_Elasticity (public). **Licence:** MIT (`LICENSE`; scope in
+`LICENSE_NOTE.md`). **Citation:** Section 11.
 
 ## 1. What this package is, and what it is not
 
@@ -151,13 +151,13 @@ These are reported as discrepancies whose cause is unknown, not as errors of the
 The exact solvers do not use the kinematics, the shear functions, the stress resultants or the discretisation of the
 mixed formulation. They solve the equations of linear elasticity for the same material, geometry and boundary
 conditions, and serve only as reference values. The package therefore checks the reference values, not the finite
-element results: reproducing those requires the mixed finite element code, which is not public.
+element results: reproducing those requires the mixed finite element code, which is not publicly distributed.
 
 ## 9. Contents and provenance
 
 ```
 github_exact_elasticity/
-├── README.md, LICENSE_NOTE.md, requirements.txt, MANIFEST.md
+├── README.md, LICENSE, LICENSE_NOTE.md, requirements.txt, MANIFEST.md
 ├── reproduce.py
 ├── solvers/exact_2d/   beam2d_exact.py, materials.py (unchanged project code), roots.py
 ├── solvers/exact_3d/   elast3d.py (unchanged), laminate.py (extracted unchanged), roots.py
@@ -183,3 +183,22 @@ checksum of every package file.
   - the in-plane roots of the SSSS plates (18 values);
   - the (0/90/C/90/0) sandwich plate of Belarbi et al. (18 values);
   - the exact mode shapes and modal stress profiles.
+
+## 11. Licence and citation
+
+The repository is released under the MIT License, copyright (c) 2026 Doğan Kanığ (`LICENSE`). The licence does not
+extend to the mixed quasi-3D finite element implementation, which is not part of this repository.
+
+If you use the solvers or the reference values, please cite the repository and state the commit you used
+(`git rev-parse HEAD`):
+
+> Kanığ D (2026) Exact_Elasticity: exact elasticity reference solutions for the free vibration of laminated beams
+> and plates. GitHub repository, https://github.com/kanig15123/Exact_Elasticity
+
+and the associated article, whose bibliographic details will be added here once it is published:
+
+> Kanığ D. Mixed quasi-3D finite elements for the free vibration of laminated beams and plates: a critical review
+> with elasticity benchmarks. Manuscript prepared for Archives of Computational Methods in Engineering.
+
+Published values used for validation (`validation/published_values.csv`) should be cited to their original
+sources.

@@ -1,14 +1,14 @@
 # Licence note
 
-The repository is public, but no licence has been chosen yet, and no licence is granted by this note. Until the author
-adds a licence file, the default copyright of the author applies and the code may not be reused without permission.
+The files of this repository are released under the MIT License (`LICENSE`), copyright (c) 2026 Doğan Kanığ.
 
-Decisions open for the author:
+Scope:
+- The licence covers the code (`solvers/`, `reproduce.py`) and the data files of this repository. The code was written
+  for the author's projects; it contains no third-party code and only imports the Python standard library, NumPy and
+  SciPy (BSD-3-Clause), which are not redistributed here.
+- It does not cover the mixed quasi-3D finite element implementation of the associated manuscript, which is not part
+  of this repository and is not publicly distributed.
+- The published values in `validation/published_values.csv` and the material data of the benchmarks are transcribed
+  from the cited papers. They remain attributable to those sources and should be cited as such.
 
-1. Choose a licence for the source code in `solvers/` and `reproduce.py` (for example MIT, BSD-3-Clause, GPL-3.0 or
-   Apache-2.0) and add the corresponding `LICENSE` file.
-2. Choose a licence for the data in `benchmark_inputs/`, `reference_results/` and `validation/` (for example CC BY 4.0).
-   The published values in `validation/published_values.csv` and the material data of the benchmarks are transcribed
-   from the cited papers; only the citation, not a licence, applies to those facts.
-3. State the copyright holder(s) and year, and how the package should be cited (the manuscript, once published, and
-   optionally a Zenodo DOI of a tagged release).
+How to cite: see Section 11 of `README.md`.
