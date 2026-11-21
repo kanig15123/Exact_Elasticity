@@ -4,15 +4,16 @@ Reproducibility package of the manuscript *Mixed quasi-3D finite elements for th
 and plates: a critical review with elasticity benchmarks* (prepared for Archives of Computational Methods in
 Engineering).
 
-**Status:** prepared for the author's review; not yet published. Repository URL: *to be supplied by the author.*
-Licence: not yet chosen (see `LICENSE_NOTE.md`).
+**Repository:** https://github.com/kanig15123/Exact_Elasticity (public). **Licence:** none chosen yet, so no
+reuse licence is granted (see `LICENSE_NOTE.md`).
 
 ## 1. What this package is, and what it is not
 
 The primary subject of the manuscript is the **mixed quasi-3D Hellinger-Reissner finite element formulation** for
 laminated beams and plates. To assess it, the study computed independent **exact elasticity reference solutions**.
-This package contains only those reference solvers, their inputs and their results, so that every exact reference
-value of the manuscript can be regenerated and checked.
+This package contains only those reference solvers, their inputs and their results, so that the 266 exact reference
+frequencies listed in Section 5 can be regenerated and checked. Section 10 lists the exact values of the manuscript
+that the package does not regenerate.
 
 The package does **not** contain:
 - the mixed quasi-3D finite element code;
@@ -88,7 +89,7 @@ The script uses only the files of this package (paths relative to `reproduce.py`
 - `validation/validation_report.md`: summary by set and comparison with published values.
 
 Its exit code is the number of cases outside tolerance. Verified on Python 3.13.9, NumPy 2.3.5, SciPy 1.16.3 from a
-copy of this folder outside the project.
+clean copy of the repository contents; the files in `validation/` are the output of that run.
 
 ## 5. Benchmarks and the manuscript tables that use them
 
@@ -149,9 +150,8 @@ These are reported as discrepancies whose cause is unknown, not as errors of the
 
 The exact solvers do not use the kinematics, the shear functions, the stress resultants or the discretisation of the
 mixed formulation. They solve the equations of linear elasticity for the same material, geometry and boundary
-conditions, and serve only as reference values. A reader can check every exact reference value of the manuscript
-with this package. Checking the finite element results themselves requires the mixed finite element code, which is
-not part of this package.
+conditions, and serve only as reference values. The package therefore checks the reference values, not the finite
+element results: reproducing those requires the mixed finite element code, which is not public.
 
 ## 9. Contents and provenance
 
@@ -176,5 +176,10 @@ checksum of every package file.
   none exists. Their Q9 values are included as numerical data only.
 - The Navier solutions of the beam and plate theories quoted beside the exact values in manuscript Tables 2-4.
 - The primary paper of Noor (1973), so the quoted values cannot be checked against their source.
-- Plate thin-limit values (a/h up to 1000) and the exact modal stress profiles of the manuscript, which were
-  computed with the same solvers but are not part of `cases.json`.
+- Exact values that the manuscript uses but `cases.json` does not contain, although they were computed with the
+  same solvers:
+  - plates for a/h = 200, 500 and 1000 (thin-limit study, Fig. 12; 18 values);
+  - the [0/90] beam for L/h = 200, 500 and 1000 and four axial modes, used in the kinematic diagnostic (10 values);
+  - the in-plane roots of the SSSS plates (18 values);
+  - the (0/90/C/90/0) sandwich plate of Belarbi et al. (18 values);
+  - the exact mode shapes and modal stress profiles.

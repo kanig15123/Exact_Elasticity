@@ -1,0 +1,1436 @@
+{
+ "beam [0/90/0]": {
+  "name": "beam [0/90/0]",
+  "layers": [
+   {
+    "t": 0.3333333333333333,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.3333333333333333,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.3333333333333333,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "beam [0/90]": {
+  "name": "beam [0/90]",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "DATA-1 sandwich": {
+  "name": "DATA-1 sandwich",
+  "layers": [
+   {
+    "t": 0.0004572,
+    "material": "chen_face_DATA1",
+    "angle": 0,
+    "rho": 2683.0
+   },
+   {
+    "t": 0.0127,
+    "material": "chen_core_DATA1",
+    "angle": 0,
+    "rho": 32.8381
+   },
+   {
+    "t": 0.0004572,
+    "material": "chen_face_DATA1",
+    "angle": 0,
+    "rho": 2683.0
+   }
+  ],
+  "note": "Chen et al. (2003) DATA-1; SI units"
+ },
+ "DATA-2 double-core sandwich": {
+  "name": "DATA-2 double-core sandwich",
+  "layers": [
+   {
+    "t": 0.000508,
+    "material": "chen_face_DATA2",
+    "angle": 0,
+    "rho": 10691000.0
+   },
+   {
+    "t": 0.01016,
+    "material": "chen_core_DATA2",
+    "angle": 0,
+    "rho": 2672600.0
+   },
+   {
+    "t": 0.000508,
+    "material": "chen_face_DATA2",
+    "angle": 0,
+    "rho": 10691000.0
+   },
+   {
+    "t": 0.01016,
+    "material": "chen_core_DATA2",
+    "angle": 0,
+    "rho": 2672600.0
+   },
+   {
+    "t": 0.000508,
+    "material": "chen_face_DATA2",
+    "angle": 0,
+    "rho": 10691000.0
+   }
+  ],
+  "note": "Chen et al. (2003) DATA-2; SI units"
+ },
+ "DATA-4 [0/0/90/90/0/0]": {
+  "name": "DATA-4 [0/0/90/90/0/0]",
+  "layers": [
+   {
+    "t": 0.025400000000000002,
+    "material": "chen_ply_DATA4",
+    "angle": 0,
+    "rho": 800.0
+   },
+   {
+    "t": 0.025400000000000002,
+    "material": "chen_ply_DATA4",
+    "angle": 0,
+    "rho": 800.0
+   },
+   {
+    "t": 0.025400000000000002,
+    "material": "chen_ply_DATA4",
+    "angle": 90,
+    "rho": 800.0
+   },
+   {
+    "t": 0.025400000000000002,
+    "material": "chen_ply_DATA4",
+    "angle": 90,
+    "rho": 800.0
+   },
+   {
+    "t": 0.025400000000000002,
+    "material": "chen_ply_DATA4",
+    "angle": 0,
+    "rho": 800.0
+   },
+   {
+    "t": 0.025400000000000002,
+    "material": "chen_ply_DATA4",
+    "angle": 0,
+    "rho": 800.0
+   }
+  ],
+  "note": "Chen et al. (2003) DATA-4; SI units"
+ },
+ "B-K5 five-ply": {
+  "name": "B-K5 five-ply",
+  "layers": [
+   {
+    "t": 0.010000000000000002,
+    "material": "K5_mat1",
+    "angle": 0,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.025,
+    "material": "K5_mat2",
+    "angle": 0,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.015,
+    "material": "K5_mat3",
+    "angle": 0,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.020000000000000004,
+    "material": "K5_mat1",
+    "angle": 0,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.03,
+    "material": "K5_mat3",
+    "angle": 0,
+    "rho": 1578.0
+   }
+  ],
+  "note": "Kapuria et al. (2004) via Wu Zhen and Chen Wanji (2008), Example 4.2; SI units"
+ },
+ "B-K4 (90/0/90/0)": {
+  "name": "B-K4 (90/0/90/0)",
+  "layers": [
+   {
+    "t": 0.025,
+    "material": "K4_ply",
+    "angle": 90,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.025,
+    "material": "K4_ply",
+    "angle": 0,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.025,
+    "material": "K4_ply",
+    "angle": 90,
+    "rho": 1578.0
+   },
+   {
+    "t": 0.025,
+    "material": "K4_ply",
+    "angle": 0,
+    "rho": 1578.0
+   }
+  ],
+  "note": "Wu Zhen and Chen Wanji (2008), Example 4.3; SI units"
+ },
+ "B-SW (0/90/core/0/90)": {
+  "name": "B-SW (0/90/core/0/90)",
+  "layers": [
+   {
+    "t": 0.004166666666666667,
+    "material": "SW_face",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.004166666666666667,
+    "material": "SW_face",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.08333333333333333,
+    "material": "SW_core",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.004166666666666667,
+    "material": "SW_face",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.004166666666666667,
+    "material": "SW_face",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Wu Zhen and Chen Wanji (2008), Example 4.4; SI units"
+ },
+ "plate [0/90/0] E1/E2=40": {
+  "name": "plate [0/90/0] E1/E2=40",
+  "layers": [
+   {
+    "t": 0.3333333333333333,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.3333333333333333,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.3333333333333333,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate [0/90/90/0] E1/E2=40": {
+  "name": "plate [0/90/90/0] E1/E2=40",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate [0/90] E1/E2=40": {
+  "name": "plate [0/90] E1/E2=40",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate [0/90/90/0] E1/E2=3": {
+  "name": "plate [0/90/90/0] E1/E2=3",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate [0/90/90/0] E1/E2=10": {
+  "name": "plate [0/90/90/0] E1/E2=10",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate [0/90/90/0] E1/E2=20": {
+  "name": "plate [0/90/90/0] E1/E2=20",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate [0/90/90/0] E1/E2=30": {
+  "name": "plate [0/90/90/0] E1/E2=30",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_1 E1/E2=3": {
+  "name": "plate (0/90)_1 E1/E2=3",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_1 E1/E2=10": {
+  "name": "plate (0/90)_1 E1/E2=10",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_1 E1/E2=20": {
+  "name": "plate (0/90)_1 E1/E2=20",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_1 E1/E2=30": {
+  "name": "plate (0/90)_1 E1/E2=30",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_1 E1/E2=40": {
+  "name": "plate (0/90)_1 E1/E2=40",
+  "layers": [
+   {
+    "t": 0.5,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.5,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_2 E1/E2=3": {
+  "name": "plate (0/90)_2 E1/E2=3",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_2 E1/E2=10": {
+  "name": "plate (0/90)_2 E1/E2=10",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_2 E1/E2=20": {
+  "name": "plate (0/90)_2 E1/E2=20",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_2 E1/E2=30": {
+  "name": "plate (0/90)_2 E1/E2=30",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_2 E1/E2=40": {
+  "name": "plate (0/90)_2 E1/E2=40",
+  "layers": [
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.25,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_3 E1/E2=3": {
+  "name": "plate (0/90)_3 E1/E2=3",
+  "layers": [
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_3 E1/E2=10": {
+  "name": "plate (0/90)_3 E1/E2=10",
+  "layers": [
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_3 E1/E2=20": {
+  "name": "plate (0/90)_3 E1/E2=20",
+  "layers": [
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_3 E1/E2=30": {
+  "name": "plate (0/90)_3 E1/E2=30",
+  "layers": [
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_3 E1/E2=40": {
+  "name": "plate (0/90)_3 E1/E2=40",
+  "layers": [
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.16666666666666666,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_5 E1/E2=3": {
+  "name": "plate (0/90)_5 E1/E2=3",
+  "layers": [
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_3",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_5 E1/E2=10": {
+  "name": "plate (0/90)_5 E1/E2=10",
+  "layers": [
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_10",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_5 E1/E2=20": {
+  "name": "plate (0/90)_5 E1/E2=20",
+  "layers": [
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_20",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_5 E1/E2=30": {
+  "name": "plate (0/90)_5 E1/E2=30",
+  "layers": [
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_30",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate (0/90)_5 E1/E2=40": {
+  "name": "plate (0/90)_5 E1/E2=40",
+  "layers": [
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 0,
+    "rho": 1.0
+   },
+   {
+    "t": 0.1,
+    "material": "noor_E1_40",
+    "angle": 90,
+    "rho": 1.0
+   }
+  ],
+  "note": ""
+ },
+ "plate L2 tc/tf=4": {
+  "name": "plate L2 tc/tf=4",
+  "layers": [
+   {
+    "t": 0.08333333333333333,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.08333333333333333,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.6666666666666666,
+    "material": "L2_core_GPa",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.08333333333333333,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.08333333333333333,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Iurlaro et al. (2013) laminate L2"
+ },
+ "plate L2 tc/tf=10": {
+  "name": "plate L2 tc/tf=10",
+  "layers": [
+   {
+    "t": 0.041666666666666664,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.041666666666666664,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.8333333333333333,
+    "material": "L2_core_GPa",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.041666666666666664,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.041666666666666664,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Iurlaro et al. (2013) laminate L2"
+ },
+ "plate L2 tc/tf=20": {
+  "name": "plate L2 tc/tf=20",
+  "layers": [
+   {
+    "t": 0.022727272727272728,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.022727272727272728,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.9090909090909092,
+    "material": "L2_core_GPa",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.022727272727272728,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.022727272727272728,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Iurlaro et al. (2013) laminate L2"
+ },
+ "plate L2 tc/tf=30": {
+  "name": "plate L2 tc/tf=30",
+  "layers": [
+   {
+    "t": 0.015625,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.015625,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.9375,
+    "material": "L2_core_GPa",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.015625,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.015625,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Iurlaro et al. (2013) laminate L2"
+ },
+ "plate L2 tc/tf=40": {
+  "name": "plate L2 tc/tf=40",
+  "layers": [
+   {
+    "t": 0.011904761904761904,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.011904761904761904,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.9523809523809523,
+    "material": "L2_core_GPa",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.011904761904761904,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.011904761904761904,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Iurlaro et al. (2013) laminate L2"
+ },
+ "plate L2 tc/tf=50": {
+  "name": "plate L2 tc/tf=50",
+  "layers": [
+   {
+    "t": 0.009615384615384616,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.009615384615384616,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.9615384615384616,
+    "material": "L2_core_GPa",
+    "angle": 0,
+    "rho": 97.0
+   },
+   {
+    "t": 0.009615384615384616,
+    "material": "L2_face_GPa",
+    "angle": 0,
+    "rho": 1627.0
+   },
+   {
+    "t": 0.009615384615384616,
+    "material": "L2_face_GPa",
+    "angle": 90,
+    "rho": 1627.0
+   }
+  ],
+  "note": "Iurlaro et al. (2013) laminate L2"
+ }
+}

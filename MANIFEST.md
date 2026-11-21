@@ -12,8 +12,8 @@
 SHA-256 of every package file at build time:
 
 - `.gitignore` 862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793
-- `LICENSE_NOTE.md` 7c1b90d422335098e2979b932d08865c4f64b88fb5c440362618a8c95f4b5b3b
-- `README.md` d00e776dbbb8f365dfed9b276405cc708a4c590ff297fafca5bfbe5766311202
+- `LICENSE_NOTE.md` f9edc25825ed5f6dd4e2c1f3cc13b3841b142d9a9dd933bed858b0edc57d401b
+- `README.md` 3b142b4365773905deb7816aa19b011c46874223ad58e8195939603eef9f0681
 - `reproduce.py` b9d52d1564f4b7649823b4513522c8a0ed8e50f51a83e46c14033a1b561b9a2a
 - `requirements.txt` fe337695b04e6a7812692400793b1352da767d05da1d1f38d3168af7b74a68ab
 - `benchmark_inputs/cases.json` 067cfd6de11189a2affdd4793f77f9c86644dca806f32ec42da91afe8484ad44
@@ -35,6 +35,6 @@ SHA-256 of every package file at build time:
 - `validation/published_values.csv` 51be6d8f3d067481f2e863feb412ce4f9abfe6e8069f53f71167235eb5c70ef1
 - `validation/reproduce_run.log` 501da0ab641751d158c9e20126559c802b95c871a4c96fdbe954bc2a20d57408
 - `validation/reproduced_results.csv` 3ff9ce6947393bc87255dfa540bfbff00b1cbd463ac15101548cd7f437ed30f7
-- `validation/validation_report.md` 0ea29f89213e6510adee12c7cbfd04d46227afa4ff00f4f2c916caf6f3cf709c
+- `validation/validation_report.md` a252fffa25d4c1e641a58eb09884cdd497f0d0aef02323a78677bb1319b90fc0
 - `validation/stored_project_checks/elast3d_published_check.csv` 82a4533399c4901ec1edaa1fc4832932fc751d670a2e03b2e820e338065fae89
 - `validation/stored_project_checks/reproduction_summary.csv` ffd81a7851b063364847b8dbabb73e7ce4ee680661dbfc241a4e2fa499b58007
